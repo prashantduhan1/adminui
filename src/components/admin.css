@@ -1,0 +1,14 @@
+.searchBox{
+    width: 100%;
+    border: 1px solid grey;
+    font-size: medium;
+    padding-top: 0.5rem;
+    padding-bottom:0.5rem;
+    padding-left: 0.5rem;
+}
+.container{
+    width: 100%;
+}
+.table{
+    width: 100%;
+}
